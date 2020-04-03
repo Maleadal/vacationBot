@@ -1,0 +1,16 @@
+{
+	"name": "test-bot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "Maleadal",
+	"license": "lsc",
+	"dependencies": {
+		"discord.js": "^12.0.2",
+		"dotenv": "^8.2.0",
+		"request": "2.81.0"
+	}
+}
